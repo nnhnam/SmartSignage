@@ -20,7 +20,7 @@ As AYY has a lot of people moving in and out, the majority of them values inform
 Our House Info page shows:
 - the map, so new tenants will easily find laundry and gym, 
 - lists up all the upcoming events, 
-- to those ones already local - reminds about free saunas and laundry turns, so they don't forget to book it in time.
+- to those already local ones - reminders about free saunas and laundry turns, so they don't forget to book it in time.
 
 Postmen can enjoy a long list of tenants and can have them both in alphabetical and apartment number order.
 
@@ -33,12 +33,12 @@ We wanted AYY to know their priorities and immediately know how well the problem
 
 Problems page gives tenants a possibility to vote up all the important issues in the building, and feedback works the same way as the "smiley face system" in cafeterias and shops. Not accurate, but quick and effective.
 
-Our github has an example of how, if AYY were to implement a fault report in Domo system, it could be easily collected and processed to a small database, and then go directly to the screens. 
+Our Github has an example of how, if AYY were to implement a fault report in Domo system, it could be easily collected and processed to a small database, and then go directly to the screens. 
 
 ## Advantages
 
 We've created an idea that can be used by AYY in any form they like. 
-The reflexive surface is cheap and cool.
+The reflexive surface is very affordable and gives a futuristic feeling.
 The dark theme helps reducing the power consumption of the signage.
 The design itself works whether they get slightly expensive touchscreens or not: that's why our mockup is operated only by the buttons on the bottom. 
 If needed, they can be easily transferred to a small tablet or phone - and the company doesn't have to spend loads of money.
