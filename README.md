@@ -3,7 +3,10 @@
 They say it is impossible to pass a mirror and not take a glance at yourself.
 We've decided to test it out in our modern solution - Smart Mirror.
 
+[Demo](https://www.figma.com/file/MaHPWAbnfeFCwqBgOQ93xm/SmartMirror?node-id=0%3A1)
+
 ## Problems of interest
+[Junction 2019](https://2019.hackjunction.com/challenges/smart-signage-for-students-by-students)
 
 AYY has been planning to install information screens (smart signage) to the stairwells and hallways of its apartment buildings.
 They wanted us to come up with interesting ideas on what it can show, what look like and how it will attract the attention of the building's residents.
